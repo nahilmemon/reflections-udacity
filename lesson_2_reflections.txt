@@ -11,6 +11,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    You can place only the files that have been changed into the staging area. Then you can commit these files only. This way, you can organize your commits according to one logical change each.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
