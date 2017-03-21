@@ -16,6 +16,12 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    Some situations where it would be helpful to make branches include when you want to
+    - add an experimental new feature which may/may not work out.
+    - completely redesign the visual layout of a project (and thus the interactions involved too)
+    - create a version for another language speaking audience
+    Branches would help to keep your commit history organized, especially if you are still working on the master branch to fix bugs or whatnot. Also, if something goes completely wrong or you change your mind about your new additions, you can easily revert back to the master branch without having to worry about having completely messed up the original project.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
