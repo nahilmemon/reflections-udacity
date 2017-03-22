@@ -30,7 +30,7 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
     When you merge two branches together, the project ends up becoming a combination of the two branches. The merge intelligently adds and deletes lines in files by comparing the tips of the two branches with the most recent commit right before the two branches had diverged. The commits in git log will then be interweaved according to the timestamps of the commits, so that the commits between the two branches become interweaved.
-    We represent merges by showing the point when the two branches combine with a new commit. This commit has two parents, one from each branch. The final branch name is the name of the branch that the other branch was merged into, and the other branch gets deleted afterwards, hence its name no longer appears on the diagram.
+    We represent merges by showing the point when the two branches combine with a new commit. This commit has two parents, one from each branch. The final branch name is the name of the branch that the other branch was merged into. The other branch gets deleted afterwards, hence its name no longer appears on the diagram.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
