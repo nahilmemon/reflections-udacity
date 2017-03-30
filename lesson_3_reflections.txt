@@ -29,7 +29,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    If I didn't use Git and GitHub while working on a project with other people, then I'd probably use Google Drive to share files easily and Google Docs if the project allows for it.
+    It's easier to communicate with people in person or using FB Messenger or Skype.
+    However, it would be harder to see all the changes each person makes every so often and figure out how to seemlessly merge all the changes together, especially for work that can't be easily split up into sections. It would also be harder to revert files back to an older state if it should ever be necessary.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
